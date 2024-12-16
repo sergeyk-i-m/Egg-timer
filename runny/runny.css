@@ -1,0 +1,20 @@
+#myVideo {
+    position: fixed;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -10;
+}
+
+#container-countdown {
+    display: flex;
+    justify-content: center;
+}
+
+#countdown {
+    color: azure;
+    font-size: 90px;
+    font-family: 'Rubik Moonrocks', sans-serif;
+}
+
