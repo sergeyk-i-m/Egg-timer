@@ -1,0 +1,32 @@
+body {
+    background-color: #ED2B2A;
+}
+
+#eggContainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.eggRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Glass Antiqua', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Glass Antiqua', cursive;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.title {
+    font-size: 20px;
+}
